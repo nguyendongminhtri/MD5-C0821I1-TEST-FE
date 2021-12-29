@@ -112,9 +112,9 @@
             "styles": [],
             "scripts": [],
             "assets": [
+              "src/_redirects",
               "src/favicon.ico",
-              "src/assets",
-              "src/_redirects"
+              "src/assets"
             ]
           }
         },
