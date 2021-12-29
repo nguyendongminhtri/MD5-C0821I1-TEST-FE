@@ -112,7 +112,7 @@
             "styles": [],
             "scripts": [],
             "assets": [
-              "src/_redirects",
+              "src/_redirects.txt",
               "src/favicon.ico",
               "src/assets"
             ]
